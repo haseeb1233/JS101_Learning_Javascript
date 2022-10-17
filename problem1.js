@@ -1,5 +1,4 @@
-let x = "Masai School" ;
-let y = "A Transformation in Education"
-
-console.log(x);
-console.log(y);
+let N=12;
+if(N%3==0){
+  console.log("multiple of 3");
+}

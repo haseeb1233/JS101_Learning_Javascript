@@ -1,6 +1,8 @@
-var name = "Abdul Haseeb tk";
-console.log(name);
-name ="Mohammed tk";
-console.log(name);
-name ="fathima";
-console.log(name);
+
+let Min_age=18;
+let Driver_age=17;
+if(Driver_age>Min_age){
+  console.log("Apply For License");
+}else{
+  console.log("NA");
+}
